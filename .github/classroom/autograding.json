@@ -1,7 +1,7 @@
 {
   "tests": [
     {
-      "name": "ask python",
+      "name": "python project",
       "setup": "sudo -H pip3 install pytest",
       "run": "pytest",
       "input": "",
